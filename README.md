@@ -1,1 +1,1 @@
-# kaggle_titanic_ml
+## Kaggle Competition: Titanic - A Machine Learning Disaster
